@@ -1,0 +1,11 @@
+:ems:
+  :ems_cam_automation_provider:
+    :blacklisted_event_names: []
+    :event_handling:
+      :event_groups:
+:http_proxy:
+  :cam_automation_provider:
+    :host:
+    :password:
+    :port:
+    :user:
